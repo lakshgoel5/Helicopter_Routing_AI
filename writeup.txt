@@ -1,0 +1,8 @@
+Names: Rachit Bhalani, 2023CS10961; Laksh Goel, 2023CS10848
+
+The goal of this assignment is to take a complex new problem and formulate and solve it
+as search.
+
+We took help from chatgpt wherever probabilistic distributions and randomness were used.
+
+We also discussed ideas with our friends namely Aditya Narware, Sabhya Arora and Shivankur Gupta
