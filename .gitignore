@@ -39,3 +39,10 @@
 
 # debug information files
 *.dwo
+
+# Main executable
+main
+format_checker
+
+# Backup files
+README_OLD.md
