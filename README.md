@@ -7,6 +7,11 @@
 
 </div>
 
+## Authors
+
+- **Laksh Goel** (2023CS10848)
+- **Rachit Bhalani** (2023CS10961)
+
 ## Table of Contents
 - [Overview](#overview)
 - [Problem Statement](#problem-statement)
@@ -21,8 +26,6 @@
   - [Simulated Annealing with Restarts](#simulated-annealing-with-restarts)
   - [Neighborhood Functions](#neighborhood-functions)
 - [Key Learnings](#key-learnings)
-- [Authors](#authors)
-- [Acknowledgments](#acknowledgments)
 
 ---
 
@@ -272,18 +275,4 @@ Combining multiple algorithms leverages their complementary strengths:
 ### 5. **State Management is Critical**
 Maintaining global state (village demands satisfied, helicopter distances used) across neighborhood operations requires careful bookkeeping to ensure feasibility and avoid recomputation.
 
----
 
-## Authors
-
-- **Laksh Goel** (2023CS10848)
-- **Rachit Bhalani** (2023CS10961)
-
----
-
-## Acknowledgments
-
-- Problem formulation inspired by real-world disaster relief logistics
-- We consulted with friends **Aditya Narware**, **Sabhya Arora**, and **Shivankur Gupta** for ideas and discussions
-- ChatGPT was used for implementing probabilistic distributions and randomness in the code
-- Course staff for providing problem statement and test cases
